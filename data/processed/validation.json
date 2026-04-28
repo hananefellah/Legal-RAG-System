@@ -1,0 +1,502 @@
+[
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . 1131 et seq.) and this Act, except that with respect to the wilderness areas designated by this Act-- (1) any reference to the effective date of the Wilderness Act shall be considered to be a reference to the date of enactment of this Act; and (2) any reference in the Wilderness Act to the Secretary of Agriculture shall be considered to be a reference to the Secretary\n\nQuestion: What date is considered to be a reference to the effective date of the Wilderness Act with respect to the wilderness areas designated by this Act?",
+    "output": "The date of enactment of this Act is considered to be a reference to the effective date of the Wilderness Act."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . (a) Reporting Requirement.--The National Wildlife Refuge System Administration Act of 1966 (16 U.S.C. 668dd et seq.) is further amended by amending section 7 (relating to amendments to another law, which have executed) to read as follows: ``SEC. 7. ANNUAL REPORT ON CONCESSION ACTIVITIES IN THE SYSTEM\n\nQuestion: What is the title of the law being amended according to the excerpt?",
+    "output": "The National Wildlife Refuge System Administration Act of 1966"
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . In processing applications for naturalization, the Secretary of Homeland Security shall give priority to-- (1) applications filed under section 2 of this Act; and (2) applications filed under title III of the Immigration and Nationality Act (8 U.S.C\n\nQuestion: What type of applications does the Secretary of Homeland Security give priority to?",
+    "output": "The Secretary of Homeland Security gives priority to applications filed under section 2 of this Act and applications filed under title III of the Immigration and Nationality Act (8 U.S.C)."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . Social science research amply documents a strong correlation between the exposure of children to televised violence and a number of behavioral and psychological problems. (5) Hundreds of studies have proven conclusively that children who are consistently exposed to violence on television have a higher tendency to exhibit violent and aggressive behavior, both as children and later in life\n\nQuestion: How many studies have proven conclusively that children who are consistently exposed to violence on television have a higher tendency to exhibit violent and aggressive behavior?",
+    "output": "Hundreds of studies have proven conclusively that children who are consistently exposed to violence on television have a higher tendency to exhibit violent and aggressive behavior."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . ``(3) Coverage.-- ``(A) In general.--To be an eligible three-share program under this section, the three-share program shall provide at least the following benefits: ``(i) Physicians services. ``(ii) In-patient hospital services. ``(iii) Out-patient services. ``(iv) Emergency room visits. ``(v) Emergency ambulance services. ``(vi) Diagnostic lab fees and x-rays\n\nQuestion: What types of services must an eligible three-share program provide under this section?",
+    "output": "Physicians services, in-patient hospital services, out-patient services, emergency room visits, emergency ambulance services, and diagnostic lab fees and x-rays."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . (3) Supplement, not supplant.--Each local educational agency that receives funds under this Act shall use such funds only to supplement, and not to supplant, State and local funds that, in the absence of funds under this Act, would otherwise be spent for activities under this Act\n\nQuestion: What is the requirement for local educational agencies that receive funds under this Act?",
+    "output": "Each local educational agency must use the funds to supplement, and not to supplant, State and local funds."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . (a) Review and Reports on Retail Prices of Prescription Drugs.-- (1) Initial review.--The Comptroller General of the United States shall conduct a review of the retail cost of prescription drugs in the United States during 2000 through 2003, with an emphasis on the prescription drugs most utilized for individuals age 65 or older\n\nQuestion: What years were included in the review of the retail cost of prescription drugs?",
+    "output": "The review was conducted for the years 2000 through 2003."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: extend programs that improve recipient countries' ability to prevent, investigate, and prosecute fraud and corruption, including in projects funded by the World Bank, through initiatives aimed at-- (A) building institutional capacity across recipient country government agencies; (B) improving transparency and accountability mechanisms throughout government; (C) promoting public education of the\n\nQuestion: What initiatives are aimed at improving recipient countries' ability to prevent, investigate, and prosecute fraud and corruption?",
+    "output": "Initiatives aimed at building institutional capacity across recipient country government agencies, improving transparency and accountability mechanisms throughout government, and promoting public education of the public."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . (2) Final report.--Not later than 180 days after the last day of the grants program under this section, the Secretary shall submit to Congress a report detailing the recommendations of the Secretary as to any benefits or barriers of integrating nutrition and physical activity curriculum at both the medical school and residency levels\n\nQuestion: How long does the Secretary have to submit the final report to Congress?",
+    "output": "Not later than 180 days after the last day of the grants program under this section."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . (d) Fiscal Year 2004.-- (1) In general.--There are authorized to be appropriated to the National Science Foundation $4,124,027,000 for fiscal year 2004\n\nQuestion: What is the authorized appropriation amount for the National Science Foundation for fiscal year 2004?",
+    "output": "The authorized appropriation amount for the National Science Foundation for fiscal year 2004 is $4,124,027,000."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . (2) Duties.--The duties of the administering entity under the agreement shall include-- (A) advertising prize competitions and the results of the prize competitions; (B) raising funds from private entities and individuals to pay for administrative costs and contribute to cash prizes; (C) working with the Secretary to develop the criteria for selecting winners in prize competitions, based on\n\nQuestion: What are the duties of the administering entity under the agreement?",
+    "output": "The duties of the administering entity under the agreement include advertising prize competitions and the results of the prize competitions, raising funds from private entities and individuals, and working with the Secretary to develop the criteria for selecting winners in prize competitions."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . (3) Consultation and appointment.-- (A) In general.--The President, Speaker of the House of Representatives, minority leader of the House of Representatives, majority leader of the Senate, and minority leader of the Senate shall consult among themselves before appointing the members of the Commission in order to achieve, to the maximum extent practicable, fair and equitable representation of\n\nQuestion: Who are the individuals required to consult among themselves before appointing the members of the Commission?",
+    "output": "The President, Speaker of the House of Representatives, minority leader of the House of Representatives, majority leader of the Senate, and minority leader of the Senate."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: laws to ensure girls are active participants in the social, economic, legal and political sectors of society in their countries\n\nQuestion: What sectors of society are girls to be active participants in, according to the document?",
+    "output": "The sectors include social, economic, legal, and political sectors of society in their countries."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: it enters the body,'' and that ``[i]f particles are inhaled or digested, they can be chemically toxic and cause a significant and long-lasting irradiation of internal tissues,''\n\nQuestion: What can happen to internal tissues if particles are inhaled or digested?",
+    "output": "They can be chemically toxic and cause a significant and long-lasting irradiation."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . (d) Management Plan.--Not later than 3 fiscal years after the date on which funds are first made available to carry out this Act, the Secretary, in consultation with the State, shall complete a general management plan for the Park in accordance with-- (1) section 12(b) of the National Park System General Authorities Act (16 U.S.C. 1a-7(b)); and (2) any other applicable laws.\n\nQuestion: How long does the Secretary have to complete a general management plan for the Park after funds are first made available?",
+    "output": "Not later than 3 fiscal years."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . ``(c) Review Within Five Years.--The plan shall provide for the review of all such agency rules existing on the effective date of the Major Regulation Cost Review Act of 2004 within five years after that date and for the review of such rules adopted after such effective date within five years after the publication of such rules as the final rule\n\nQuestion: What is the timeframe for reviewing agency rules adopted after the effective date of the Major Regulation Cost Review Act of 2004?",
+    "output": "The review of such rules adopted after the effective date shall be within five years after the publication of such rules as the final rule."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . ``(d) Authorization of Appropriations.--There is authorized to be appropriated to carry out this section $20,000,000. ``(e) Sunset of Authority.--This section shall have no effect after the date that is 10 years after the date of the enactment of this section.''\n\nQuestion: What is the amount of appropriations authorized to carry out this section?",
+    "output": "The amount of appropriations authorized is $20,000,000."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . ``(5) Exceptions.--Paragraphs (1) and (2) do not apply to-- ``(A) assistance authorized under section 4 or 5 of this Act; or ``(B) medicine, medical equipment or supplies, food, as well as any other form of humanitarian assistance provided to Belarus as relief in response to a humanitarian crisis\n\nQuestion: What types of assistance are exempt from paragraphs (1) and (2) of this Act?",
+    "output": "Assistance authorized under section 4 or 5 of this Act, as well as medicine, medical equipment or supplies, food, and other forms of humanitarian assistance provided to Belarus as relief in response to a humanitarian crisis."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . (21) In October 2007, an audit report issued by the Special Inspector General for Iraq Reconstruction stated that the Department of State ``does not know specifically what it received for most of the $1,200,000,000 in expenditures under its DynCorp Contract for the Iraqi Police Training Program''\n\nQuestion: What was the amount of expenditures under the DynCorp Contract for the Iraqi Police Training Program that the Department of State did not know what it received?",
+    "output": "The Department of State did not know what it received for most of the $1,200,000,000 in expenditures under the DynCorp Contract for the Iraqi Police Training Program."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . ``(ii) 2004 through 2010.--With respect to the periods described in subsections (a)(4), (a)(5), and (a)(6), the Secretary shall add the amount calculated under subparagraph (A) to-- ``(I) the limit set forth in subsection (a) for the period of years that includes May 1st of the following calendar year; and ``(II) each subsequent limit\n\nQuestion: What periods are described in subsections (a)(4), (a)(5), and (a)(6)?",
+    "output": "The periods described in subsections (a)(4), (a)(5), and (a)(6) are not explicitly stated in the excerpt, but the excerpt mentions that the Secretary shall add the amount calculated under subparagraph (A) to the limits for the period of years that includes May 1st of the following calendar year."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . ``(a) Sequestration.--Within 15 days after Congress adjourns to end a session, and on the same day as sequestration (if any) under sections 251, 252, and 253, and under section 5(b) of the Statutory Pay-As-You- Go Act of 2010, but after any sequestration required by those sections, there shall be a sequestration equivalent to the estimated aggregate amount designated under section 6097 of the\n\nQuestion: How many days does Congress have to adjourn to end a session before sequestration is triggered?",
+    "output": "Within 15 days after Congress adjourns to end a session."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: obligation for such calendar year under section 211(o)(3) of the Clean Air Act, as amended by this Act\n\nQuestion: What section of the Clean Air Act is being referenced?",
+    "output": "Section 211(o)(3) of the Clean Air Act, as amended by this Act."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . 4727(d)(3)) is amended by inserting ``, acting through the Under Secretary of Commerce for Export Promotion,'' after ``Secretary of Commerce''\n\nQuestion: What position is mentioned as acting on behalf of the Secretary of Commerce?",
+    "output": "The Under Secretary of Commerce for Export Promotion is mentioned as acting on behalf of the Secretary of Commerce."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . (d) Coordination of Administration.--The Secretary of Labor, the Secretary of the Treasury, and the Secretary of Health and Human Services shall ensure, through the execution of an interagency memorandum of understanding among such Secretaries, that-- (1) regulations, rulings, and interpretations issued by such Secretaries relating to the same matter over which two or more such Secretaries have\n\nQuestion: What Secretaries are required to ensure coordination of administration?",
+    "output": "The Secretary of Labor, the Secretary of the Treasury, and the Secretary of Health and Human Services are required to ensure coordination of administration."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . 6239 note; Public Law 114-74) for costs described in subsection (b) that relate to the addition of a facility or changes to a facility or facility operations necessary to lease the facility, including costs relating to-- ``(1) the acquisition of land; ``(2) the acquisition of any ancillary facility or equipment; ``(3) site development; and ``(4) other necessary costs relating to capital\n\nQuestion: What types of costs are described in subsection (b) of the document excerpt?",
+    "output": "The costs described in subsection (b) relate to the addition of a facility or changes to a facility or facility operations necessary to lease the facility, including costs such as the acquisition of land, ancillary facilities or equipment, site development, and other necessary capital costs."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . The Secretary of Energy, when acting under any authority, and the Administrator of the Environmental Protection Agency, when acting under the authority of the Clean Air Act (42 U.S.C\n\nQuestion: Under what authority does the Administrator of the Environmental Protection Agency act?",
+    "output": "The Administrator of the Environmental Protection Agency acts under the authority of the Clean Air Act (42 U.S.C)."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . (b) Purpose.--The purpose of this Act is to establish the First State National Historical Park to preserve, protect, and promote public understanding and appreciation of-- (1) the cultural and historic resources associated with early Dutch, Swedish, and English settlement in Delaware; and (2) the events, places, and persons associated with the role of Delaware as the ``First State''. SEC. 3\n\nQuestion: What are the two purposes of the First State National Historical Park established by this Act?",
+    "output": "The two purposes of the First State National Historical Park are to preserve, protect, and promote public understanding and appreciation of the cultural and historic resources associated with early Dutch, Swedish, and English settlement in Delaware, and the events, places, and persons associated with the role of Delaware as the 'First State'."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . ``(C) Program flexibility.--To provide program design flexibility to accommodate the needs of different States, regions, and communities, both urban and rural, a three-share program may include the following: ``(i) Income eligibility guidelines for enrollment purposes\n\nQuestion: What types of areas can a three-share program accommodate?",
+    "output": "States, regions, and communities, both urban and rural."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: in an amount up to and not exceeding $17,000,000,000 on and after January 1, 2011: Provided further, That the Corporation shall certify to the Committee on Transportation and Infrastructure by January 1 of each year that the Corporation's cumulative indebtedness is less than the bond authorization designated herein\n\nQuestion: What is the bond authorization designated in the document?",
+    "output": "The bond authorization designated is $17,000,000,000, effective on and after January 1, 2011."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . 2612(b)(1)) is amended by striking ``subparagraph (A) or (B)'' and inserting ``subparagraph (A), (B), (F), or (G)''. (2) Title 5.--The first sentence of section 6382(b)(1) of such title is amended by striking ``subparagraph (A) or (B)'' and inserting ``subparagraph (A), (B), (E), or (F)''\n\nQuestion: What changes are being made to section 6382(b)(1) of Title 5?",
+    "output": "The changes involve striking 'subparagraph (A) or (B)' and inserting 'subparagraph (A), (B), (E), or (F)'."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: of cases of tuberculosis, multidrug resistant tuberculosis, or extensively drug resistant tuberculosis or a substantial rate of increase in such cases\n\nQuestion: What conditions are mentioned in the document?",
+    "output": "Cases of tuberculosis, multidrug resistant tuberculosis, or extensively drug resistant tuberculosis."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: SECTION 1. SHORT TITLE. This Act may be cited as the ``Securing Care for Seniors Act of 2015''. SEC. 2. IMPROVEMENTS TO MA RISK ADJUSTMENT SYSTEM. Section 1853(a)(1)(C) of the Social Security Act (42 U.S.C\n\nQuestion: What is the short title of the Act?",
+    "output": "The short title of the Act is the 'Securing Care for Seniors Act of 2015'."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . (b) Boundaries.-- (1) In general.--The National Heritage Area shall consist of land located in the counties of Whatcom, Skagit, Snohomish, San Juan, Island, King, Pierce, Thurston, Mason, Kitsap, Jefferson, Clallam, and Grays Harbor in the State that is at least partially located within the area that is \\1/4\\-mile landward of the shoreline, as generally depicted on the map\n\nQuestion: In which state is the National Heritage Area located?",
+    "output": "The National Heritage Area is located in the State."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . ``(b) Clean-Fuel Property Credit.-- ``(1) In general.--The clean-fuel property credit is the sum of-- ``(A) qualified vehicle property costs, plus ``(B) qualified refueling property costs\n\nQuestion: What are the two components of the clean-fuel property credit?",
+    "output": "The two components are qualified vehicle property costs and qualified refueling property costs."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . ``(c) In General.--The Secretary shall make grants to covered organizations through a national competitive process for use in accordance with this section\n\nQuestion: How will the Secretary make grants to covered organizations?",
+    "output": "The Secretary shall make grants to covered organizations through a national competitive process."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . 2346(b)) is amended by striking ``2007'' and inserting ``2009''. (c) Adjustment Assistance for Farmers.--Section 298(a) of the Trade Act of 1974 (19 U.S.C. 2401g(a)) is amended by striking ``2007'' and inserting ``2009''. SEC. 402. DELEGATION OF FUNCTIONS, POWERS, AND DUTIES TO CARRY OUT THE ADJUSTMENT ASSISTANCE FOR FIRMS PROGRAM. (a) Delegation.--Section 256 of the Trade Act of 1974 (19 U.S.C\n\nQuestion: What year is inserted in Section 298(a) of the Trade Act of 1974?",
+    "output": "2009"
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . ``(12) Penalty for disclosure by state employee.--The State shall not make public information obtained under paragraphs (10) and (11) of this subsection that is privileged and confidential and contains or relates to trade secrets or commercial or financial information\n\nQuestion: What types of information are protected from public disclosure by the State?",
+    "output": "Information that is privileged and confidential and contains or relates to trade secrets or commercial or financial information."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . (a) Waiver of Liability.-- (1) In general.--As a condition of participation in a competition under this Act, the Secretary may require registered participants to waive claims against the Federal Government and the administering entity (except claims for willful misconduct) for any injury, death, damage, or loss of property, revenue, or profits arising from the participation of the registered\n\nQuestion: What type of claims are exempt from the waiver of liability?",
+    "output": "Claims for willful misconduct are exempt from the waiver of liability."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . (c) Maintenance of Eligibility.--To continue to be eligible for financial assistance under this section, a member of the District of Columbia National Guard must-- (1) be satisfactorily performing duty in the District of Columbia National Guard in accordance with regulations of the National Guard; (2) be enrolled on a full-time or part-time basis (at least 3, but less than 12 credit hours per\n\nQuestion: What is the minimum number of credit hours a member of the District of Columbia National Guard must be enrolled in to continue eligibility for financial assistance?",
+    "output": "At least 3, but less than 12 credit hours per semester."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . It is the sense of the Congress that-- (1) nonlethal means of preventing predation of listed salmonid stocks in the Columbia River by California sea lions is preferable to lethal means; (2) permit holders exercising lethal removal authority pursuant to the amendment made by this Act should be trained in wildlife management; and (3) the Federal Government should continue to fund, research, and\n\nQuestion: What is preferable to lethal means for preventing predation of listed salmonid stocks in the Columbia River?",
+    "output": "Nonlethal means of preventing predation of listed salmonid stocks in the Columbia River by California sea lions is preferable to lethal means."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . For purposes of clause (iii), the software provided by certified software providers shall be capable of calculating and filing sales and use taxes in all States qualified under this Act\n\nQuestion: What is required of software provided by certified software providers under clause (iii)?",
+    "output": "The software must be capable of calculating and filing sales and use taxes in all States qualified under this Act."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: reliable; ``(2) has a valid scientific connection to the fact it is offered to prove; and ``(3) is sufficiently reliable so that the probative value of such evidence outweighs the dangers specified in rule 403\n\nQuestion: What are the three conditions for the admissibility of evidence under this rule?",
+    "output": "The three conditions are: (1) the evidence must be reliable, (2) it must have a valid scientific connection to the fact it is offered to prove, and (3) its probative value must outweigh the specified dangers."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . Illegal remunerations for referrals to recovery homes and clinical treatment facilities ``(a) Offense.--Except as provided in subsection (c), it shall be unlawful to, in or affecting interstate or foreign commerce, knowingly and willfully-- ``(1) solicit or receive any remuneration (including any kickback, bribe, or rebate) directly or covertly, in cash or in kind, in return for referring a\n\nQuestion: What type of remuneration is prohibited in the context of referrals to recovery homes and clinical treatment facilities?",
+    "output": "The prohibited remuneration includes any kickback, bribe, or rebate."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . SEC. 5. EFFECTIVE DATE. This Act shall take effect 180 days after the date of the enactment of this Act.\n\nQuestion: How long after the date of the enactment of this Act will it take effect?",
+    "output": "This Act shall take effect 180 days after the date of the enactment of this Act."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: year, and ``(ii) in the case of a distribution from an individual retirement plan, or from amounts attributable to employer contributions made pursuant to elective deferrals described in subparagraph (A) or (C) of section 402(g)(3) or section 501(c)(18)(D)(iii)-- ``(I) without regard to whether or not such expenses exceed 7.5 percent of adjusted gross income, and ``(II) by treating an\n\nQuestion: What is the condition for a distribution from an individual retirement plan to be considered for expenses?",
+    "output": "The condition is that such expenses do not need to exceed 7.5 percent of adjusted gross income."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . ``(c) Applicability.--Subsection (a) shall not apply to-- ``(1) a discount or other reduction in price obtained by a provider of services or other entity under a health care benefit program if the reduction in price is properly disclosed and appropriately reflected in the costs claimed or charges made by the provider or entity; ``(2) any amount paid by an employer to an employee (who has a bona\n\nQuestion: What types of reductions in price are exempt from subsection (a) under the health care benefit program?",
+    "output": "A discount or other reduction in price obtained by a provider of services or other entity under a health care benefit program if the reduction in price is properly disclosed and appropriately reflected in the costs claimed or charges made by the provider or entity."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . 101. Reauthorization of weatherization assistance program. Sec. 102. Grants to eligible multistate housing and energy nonprofit organizations. Sec. 103. Quality assurance program. TITLE II--STATE ENERGY PROGRAMS Sec. 201. Reauthorization of State energy programs. SEC. 2. FINDINGS\n\nQuestion: What are the sections of the document that deal with grants to eligible multistate housing and energy nonprofit organizations?",
+    "output": "Sec. 102 deals with grants to eligible multistate housing and energy nonprofit organizations."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . (9) Congress has further determined that a return by North Korea to the Six-Party diplomatic process following any missile test or launch by Pyongyang must include a firm and transparent commitment to the complete, verifiable and irreversible dismantlement of all of North Korea's nuclear programs, including those derived both from plutonium as well as highly enriched uranium\n\nQuestion: What must be included in a North Korean return to the Six-Party diplomatic process following a missile test or launch?",
+    "output": "A firm and transparent commitment to the complete, verifiable and irreversible dismantlement of all of North Korea's nuclear programs, including those derived from plutonium as well as highly enriched uranium."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . ``(b) Pay-as-You-Go.--It shall not be in order in the House of Representatives or the Senate to consider any bill or resolution (or amendment, motion, or conference report on that bill or resolution) that waives or suspends the enforcement of section 252 of the Balanced Budget and Emergency Deficit Control Act of 1985 or otherwise would alter the balances of the pay-as-you-go scorecard pursuant\n\nQuestion: What is the purpose of section 252 of the Balanced Budget and Emergency Deficit Control Act of 1985?",
+    "output": "The purpose of section 252 is to be enforced, as bills or resolutions that waive or suspend its enforcement are not in order in the House of Representatives or the Senate."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . FAS is one of the top 3 known causes of birth defects with accompanying mental retardation and the only known preventable cause among the top three. Among children born to women who drink heavily, the incidence of FAS may be as high as 25 per 1,000 live births. Among children born to other women, the FAS incidence is between 1 to 3 infants with the syndrome per 1,000 live births\n\nQuestion: What is the estimated incidence of FAS among children born to women who drink heavily?",
+    "output": "The incidence of FAS may be as high as 25 per 1,000 live births among children born to women who drink heavily."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: their habitat, those initiatives can be significantly strengthened and enhanced by increased coordination\n\nQuestion: What can be significantly strengthened and enhanced by increased coordination?",
+    "output": "those initiatives related to their habitat."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . 485O. AUTHORIZATION OF APPROPRIATIONS. ``For the purpose of carrying out this subpart, there is authorized to be appropriated $30,000,000 for each of the fiscal years 2002 through 2006.''.\n\nQuestion: What is the total amount of appropriations authorized for fiscal year 2002?",
+    "output": "The total amount of appropriations authorized for fiscal year 2002 is $30,000,000."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: engaged in one or more of the following activities in the State: burglar alarm technician, fire alarm technician, closed circuit television technician, access control technician, or security system monitor; but (B) does not include-- (i) sworn police officers who have law enforcement powers in the State, (ii) attorneys, accountants, and other professionals who are otherwise licensed in the State,\n\nQuestion: What types of professionals are excluded from the definition of security technicians in the State?",
+    "output": "Sworn police officers with law enforcement powers, attorneys, accountants, and other professionals who are otherwise licensed in the State are excluded."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . (b) Selection Process.--The plan under this section shall establish a process for selection, from applications submitted pursuant to subsection (a), of an application for the establishment of the new domain meeting the requirements under section 101(b)\n\nQuestion: What is the purpose of the process established under section (b)?",
+    "output": "The purpose of the process is to select an application for the establishment of a new domain meeting the requirements under section 101(b)."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . ``(b) Conditions.--The conditions referred to in subsection (a) are the following: ``(1) The release of individuals in Belarus who have been jailed based on political or religious beliefs. ``(2) The withdrawal of politically motivated legal charges against all opposition activists and independent journalists in Belarus\n\nQuestion: What are the conditions referred to in subsection (a) of this document?",
+    "output": "The conditions are the release of individuals in Belarus who have been jailed based on political or religious beliefs, and the withdrawal of politically motivated legal charges against all opposition activists and independent journalists in Belarus."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: with ex- offenders and their support services needs; ``(ii) is specifically designed to meet the needs of the particular ex-offender for ex- offender support services; ``(iii) sets forth a specific duration over which the ex-offender support services are to be provided and goals by which to assess the progress of the ex-offender; and ``(iv) provides for continual oversight to monitor the progress\n\nQuestion: What are the four specific requirements for ex-offender support services?",
+    "output": "The four specific requirements are: (i) to address the needs of ex-offenders and their support services needs; (ii) specifically designed to meet the needs of the particular ex-offender; (iii) sets forth a specific duration and goals; and (iv) provides for continual oversight."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: authority to approve, permit, license, modify, or deny an application to place, construct, or modify a tower, if alternate technology is capable of delivering the broadcast or telecommunications signals without the use of a tower\n\nQuestion: What is the authority allowed to do regarding an application to place, construct, or modify a tower?",
+    "output": "The authority is allowed to approve, permit, license, modify, or deny an application."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: financial management training; ``(v) homeownership and rental counseling; ``(vi) drug and alcohol abuse counseling; ``(vii) self-esteem and peer development assistance; ``(viii) anger management counseling; ``(ix) health care services, including mental health services and behavioral counseling; ``(x) probation services; ``(xi) family and crisis management counseling; and ``(xii) general\n\nQuestion: What type of counseling is listed under (viii) in the document excerpt?",
+    "output": "The type of counseling listed under (viii) is anger management counseling."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . SEC. 10. COMPLIANCE WITH EXECUTIVE ORDER 13360. Section 36 of the Small Business Act (15 U.S.C. 657f) is amended by inserting after subsection (e), as added by this Act, the following: ``(f) Executive Order 13360.--Implementation of this section shall be consistent with the requirements of Executive Order 13360 (69 Fed. Reg\n\nQuestion: What is the name of the executive order that this section is consistent with?",
+    "output": "Executive Order 13360"
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . SEC. 5. GIFTS AND DONATIONS. The Center may receive funds and other property donated, bequeathed, or devised to the Center with or without a condition of restriction, for the purpose of furthering the activities of the Center. All funds donated, bequeathed, or devised to the Center shall be retained in a separate account\n\nQuestion: Can the Center receive funds and other property with a condition of restriction?",
+    "output": "Yes, the Center may receive funds and other property donated, bequeathed, or devised to the Center with a condition of restriction."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . (16) Constance Baker Motley passed away on September 28, 2005, and is survived by her son, Joel Motley III, her 3 grandchildren, her brother, Edward Baker of Florida, and her sisters Eunice Royster and Marian Green, of New Haven, Connecticut. SEC. 3. CONGRESSIONAL GOLD MEDAL\n\nQuestion: How many grandchildren did Constance Baker Motley leave behind?",
+    "output": "She left behind 3 grandchildren."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . ``(v) Voluntary provision of nutrition information; state regulation of nutrition information for restaurant food.-- ``(I) Retail food establishments.--Nothing in this clause precludes a restaurant or similar retail food establishment from providing additional nutrition information, voluntarily, if the information complies with the nutrition labeling requirements contained in this subparagraph\n\nQuestion: Does the clause preclude a restaurant from providing additional nutrition information?",
+    "output": "No, it does not preclude a restaurant from providing additional nutrition information."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . (3) Permanent retirement.-- (A) The term ``permanent retirement'' means that a great ape is placed in a suitable sanctuary that will provide for the lifetime care of the great ape and such great ape will not be used in further invasive research. (B) Such term does not include euthanasia\n\nQuestion: What does the term 'permanent retirement' not include?",
+    "output": "Such term does not include euthanasia."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . ``(3) Exception.--The Secretary shall not make the adjustments pursuant to this section if the adjustments for the current year are less than the on-budget surplus for the year before the current year\n\nQuestion: What is the condition under which the Secretary shall not make adjustments pursuant to this section?",
+    "output": "The adjustments for the current year are less than the on-budget surplus for the year before the current year."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: and ``(D) members of national and international nongovernmental organizations established to address the elimination of tuberculosis.''\n\nQuestion: What types of organizations are included in the elimination of tuberculosis efforts?",
+    "output": "National and international nongovernmental organizations are included."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . ``(F) Reporting requirements.-- ``(i) Annual report.--The Secretary of Homeland Security, in consultation with the Secretary of State, shall submit to Congress an annual report on the implementation of this paragraph\n\nQuestion: Who is responsible for submitting an annual report to Congress?",
+    "output": "The Secretary of Homeland Security, in consultation with the Secretary of State, is responsible for submitting an annual report to Congress."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . (3) Permitted disclosure.--The prohibition set forth in paragraph (1) shall not apply to disclosure of an Off-site Consequence Analysis Submission for official use only pursuant to clause (iii) of section 112(r)(7)(B) of the Clean Air Act to the Administrator, the Chemical Safety and Hazard Investigation Board, a State, a local agency or an entity referred to in such clause (iii), or any\n\nQuestion: Who is exempt from the prohibition set forth in paragraph (1)?",
+    "output": "The Administrator, the Chemical Safety and Hazard Investigation Board, a State, a local agency or an entity referred to in clause (iii) of section 112(r)(7)(B) of the Clean Air Act."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . (d) Use of the United States Mint at West Point, New York.--It is the sense of the Congress that the coins minted under this Act should be struck at the United States Mint at West Point, New York, to the greatest extent possible. SEC. 4. DESIGN OF COINS\n\nQuestion: Where should the coins minted under this Act be struck to the greatest extent possible?",
+    "output": "The United States Mint at West Point, New York."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . Nothing in this Act or in any regulation promulgated under section 2 shall be construed to alter, amend, modify, or otherwise affect in any way, the Federal Trade Commission Act or the opinions, decisions, rules, or any guidance issued by the Federal Trade Commission regarding the use of the term ``made in America or the equivalent thereof'' in labels on products introduced, delivered for\n\nQuestion: Does this Act affect the Federal Trade Commission Act?",
+    "output": "No, according to the document excerpt, this Act does not alter, amend, modify, or otherwise affect the Federal Trade Commission Act."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . (4) The protection from liability shall apply only if the organization or entity provides a financially secure source of recovery for individuals who suffer injury as a result of actions taken by a volunteer on behalf of the organization or entity\n\nQuestion: What is the condition under which the protection from liability applies?",
+    "output": "The protection from liability applies only if the organization or entity provides a financially secure source of recovery for individuals who suffer injury as a result of actions taken by a volunteer on behalf of the organization or entity."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . For any such rule, the head of the agency may provide for a 1-year extension of such period if the head of the agency, before the expiration of the period, certifies in a statement published in the Federal Register that reviewing such rule before the expiration of the period is not feasible\n\nQuestion: What is the maximum duration of an extension provided by the head of the agency for a rule?",
+    "output": "The maximum duration of an extension is 1 year."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: SECTION 1. SHORT TITLE. This Act may be cited as the ``United States Ports of Entry Threat and Operational Review Act''. SEC. 2. PORTS OF ENTRY THREAT AND OPERATIONAL ANALYSIS. (a) In General.-- (1) Requirement.--Not later than 180 days after the date of the enactment of this Act, the Secretary of Homeland Security, acting through the Commissioner of U.S\n\nQuestion: What is the deadline for the Secretary of Homeland Security to conduct a ports of entry threat and operational analysis?",
+    "output": "Not later than 180 days after the date of the enactment of this Act."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . ``(h) Limitation on Liability.-- ``(1) Liability of air carriers.--An air carrier shall not be liable for damages in any action brought in a Federal or State court arising out of the air carrier employing a pilot of an aircraft who is a Federal flight deck officer under this section or out of the acts or omissions of the pilot in defending an aircraft of the air carrier against acts of criminal\n\nQuestion: What type of court actions are excluded from liability for air carriers under this section?",
+    "output": "Federal or State court actions."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . BROWNFIELDS DEVELOPMENT INITIATIVE. ``(a) In General.--The Secretary may make grants under this section, on a competitive basis as specified in section 102 of the Department of Housing and Urban Development Reform Act of 1989 (42 U.S.C\n\nQuestion: How are grants under this section made?",
+    "output": "The Secretary may make grants under this section on a competitive basis as specified in section 102 of the Department of Housing and Urban Development Reform Act of 1989."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . (a) Exemption.--Subject to subsection (b), the antitrust laws shall not apply to any joint discussion, consideration, review, action, or agreement by or among persons in the television industry for the purpose of developing and disseminating voluntary guidelines designed-- (1) to alleviate the negative impact of telecast material such as, but not limited to, violence, sexual content, criminal\n\nQuestion: What is the purpose of the voluntary guidelines exempt from antitrust laws according to subsection (a)?",
+    "output": "The purpose of the voluntary guidelines is to alleviate the negative impact of telecast material such as, but not limited to, violence, sexual content, and criminal activity."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . (a) Purpose.--The purpose of this section is to establish activities, in coordination with the State performance accountability system, to assess the effectiveness of the State in achieving progress of career and technical education in serving single parents, displaced homemakers and individuals pursuing nontraditional training and employment, and to maximize the return on investment of Federal\n\nQuestion: What is the purpose of this section?",
+    "output": "The purpose of this section is to establish activities, in coordination with the State performance accountability system, to assess the effectiveness of the State in achieving progress of career and technical education in serving single parents, displaced homemakers and individuals pursuing nontraditional training and employment, and to maximize the return on investment of Federal funds."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . (8) To assist small businesses in meeting environmental regulations by providing short courses and conferences and to develop methods and models by which small businesses may finance ``green'' investment where private-sector funds are otherwise not generally available\n\nQuestion: What is one of the methods provided by the document to assist small businesses in financing 'green' investment?",
+    "output": "Short courses and conferences, as well as developing methods and models by which small businesses may finance 'green' investment where private-sector funds are otherwise not generally available."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: on-- ``(A) careful handling of the thermometer to avoid breakage; and ``(B) proper cleanup of the thermometer and its contents in the event of breakage\n\nQuestion: What are the two requirements for handling thermometers according to the document?",
+    "output": "The two requirements are careful handling to avoid breakage and proper cleanup of the thermometer and its contents in the event of breakage."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: at the end the following: ``(C) Extreme areas.--Notwithstanding subparagraphs (A) and (B) and any other provision of this Act, the specific measures referred to in subparagraphs (A) and (B) shall not be required for any nonattainment area for ozone classified as an Extreme Area.''\n\nQuestion: What type of ozone area is exempt from the specific measures referred to in subparagraphs (A) and (B)?",
+    "output": "An ozone area classified as an Extreme Area."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . (2) the worldwide level of employment-based immigrants for a fiscal year under section 201(d) is 50,000; and (3) the worldwide level of diversity immigrants for a fiscal year under section 201(e) is zero. SEC. 4. ALLOTMENT OF VISAS. (a) Notwithstanding section 203 of the Immigration and Nationality Act (8 U.S.C\n\nQuestion: What is the worldwide level of employment-based immigrants for a fiscal year under section 201(d)?",
+    "output": "The worldwide level of employment-based immigrants for a fiscal year under section 201(d) is 50,000."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . ``(4) Covered person.--The term `covered person' means a person who-- ``(A) rents motor vehicles to another person; ``(B) is engaged in the business of renting motor vehicles; ``(C) owns motor vehicle rental property; ``(D) rents a motor vehicle from another person; or ``(E) purchases motor vehicle rental property\n\nQuestion: What is the definition of a covered person in the context of motor vehicle rental?",
+    "output": "A covered person is defined as a person who rents motor vehicles to another person, is engaged in the business of renting motor vehicles, owns motor vehicle rental property, rents a motor vehicle from another person, or purchases motor vehicle rental property."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . (c) Penalties.--Any person who knowingly commits an act which violates subsection (a) or (b), or any regulation issued under this section, shall, in addition to any other penalty that may be imposed-- (1) for the first such violation, be guilty of an infraction under title 18, United States Code; and (2) for each subsequent violation, be imprisoned for not more than two years, or fined in the\n\nQuestion: What is the penalty for a first violation of subsection (a) or (b) under this section?",
+    "output": "The person is guilty of an infraction under title 18, United States Code."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: of Management and Budget and included in the budget of the President for fiscal year 2016 (as submitted to Congress under section 1105(a) of title 31, United States Code), that includes the following: (1) A proposed occupancy plan for the consolidation project that includes specific information about which Department-wide operations, component operations, and support offices will be located at\n\nQuestion: What section of the United States Code requires the President to submit the budget to Congress?",
+    "output": "Section 1105(a) of title 31, United States Code."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . (b) Amendments to the Balanced Budget and Emergency Deficit Control Act of 1985.--The Balanced Budget and Emergency Deficit Control Act of 1985 is amended-- (1) in section 250, by striking subsection (b) and inserting the following: ``(b) General Statement of Purpose.--This part provides for the enforcement of-- ``(1) a balanced budget excluding the receipts and disbursements of the social\n\nQuestion: What is the purpose of the enforcement provided in part of the Balanced Budget and Emergency Deficit Control Act of 1985?",
+    "output": "The enforcement provided in part of the Balanced Budget and Emergency Deficit Control Act of 1985 is for a balanced budget excluding the receipts and disbursements of the social security trust funds."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . (2) Invasive research performed on great apes, and the breeding of great apes for these purposes, are economic in nature and substantially affect interstate commerce. (3) The majority of invasive research and testing conducted on great apes in the United States is for the end purpose of developing drugs, pharmaceuticals, and other products to be sold in the interstate market\n\nQuestion: What is the primary purpose of invasive research and testing conducted on great apes in the United States?",
+    "output": "The majority of invasive research and testing conducted on great apes in the United States is for the end purpose of developing drugs, pharmaceuticals, and other products to be sold in the interstate market."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: who have expressed support for community preservation through the creation of Pullman National Historical Park\n\nQuestion: What is the purpose of the creation of Pullman National Historical Park?",
+    "output": "The purpose of the creation of Pullman National Historical Park is community preservation."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . (b) Prohibition on Separation.-- (1) In general.--A designated agency may not remove a child from a parent or legal guardian solely for the policy goal of deterring individuals from migrating to the United States or for the policy goal of promoting compliance with civil immigration laws\n\nQuestion: What is the reason a designated agency may not remove a child from a parent or legal guardian?",
+    "output": "A designated agency may not remove a child from a parent or legal guardian solely for the policy goal of deterring individuals from migrating to the United States or for the policy goal of promoting compliance with civil immigration laws."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: to section 554 of title 5, United States Code; and ``(iii) the Secretary shall conduct a hearing requested under clause (ii) prior to taking any action to regulate a fishery within the boundaries of such State (other than the State's internal waters) under subparagraph (C)(ii)\n\nQuestion: What action must the Secretary take prior to regulating a fishery within the boundaries of a State (other than the State's internal waters)?",
+    "output": "The Secretary must conduct a hearing requested under clause (ii) prior to taking any action to regulate a fishery within the boundaries of such State (other than the State's internal waters)."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: SECTION 1. SHORT TITLE. This Act may be cited as the ``Congressional Tribute to Constance Baker Motley Act of 2013''. SEC. 2. FINDINGS. Congress finds the following: (1) Constance Baker Motley was born in 1921, in New Haven, Connecticut, the daughter of immigrants from the Caribbean island of Nevis\n\nQuestion: Where was Constance Baker Motley born?",
+    "output": "Constance Baker Motley was born in New Haven, Connecticut."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . 9511. ENERGY TRUST FUND. ``(a) Establishment.--There is established in the Treasury of the United States a trust fund to be known as the `Energy Trust Fund', consisting of such amounts as may be appropriated or credited to such Fund as provided in this section or section 9602(b)\n\nQuestion: What is the name of the trust fund established in the Treasury of the United States?",
+    "output": "The trust fund is known as the 'Energy Trust Fund'."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . (a) Establishment.--The Secretary of Health and Human Services (in this section referred to as the ``Secretary'') shall establish a quality cancer care demonstration project under this section (in this section referred to as the ``QCCD project'') for the purpose of establishing quality metrics and aligning Medicare payment incentives in the areas of treatment planning and follow-up cancer care\n\nQuestion: What is the purpose of the QCCD project?",
+    "output": "The purpose of the QCCD project is to establish quality metrics and align Medicare payment incentives in the areas of treatment planning and follow-up cancer care."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . (7) An explanation of all enforcement actions taken by the Food and Drug Administration and the Department of Health and Human Services related to dietary supplements over the prior fiscal year, including the number and type of actions\n\nQuestion: What agencies are mentioned as taking enforcement actions related to dietary supplements?",
+    "output": "The Food and Drug Administration and the Department of Health and Human Services are mentioned as taking enforcement actions."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: funded by the Federal Government, and all completed projects and accomplishments of the previous fiscal year funded by a State government, for the Chesapeake Bay watershed that contribute to Chesapeake Bay Agreement goals\n\nQuestion: What type of government funds the completed projects and accomplishments of the previous fiscal year?",
+    "output": "The completed projects and accomplishments of the previous fiscal year funded by a State government."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . (c) Limitation on Use of Funds.--None of the funds accepted under this section shall be used to carry out a review of the evaluation of permits required under subsection (b)(1)(A). (d) Public Availability.--The Secretary shall ensure that all final permit decisions carried out using funds authorized under this section are made available to the public, including on the Internet\n\nQuestion: What is prohibited from being carried out using funds accepted under this section?",
+    "output": "A review of the evaluation of permits required under subsection (b)(1)(A)."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . A State may not require a remote seller to file sales and use tax returns any more frequently than returns are required for nonremote sellers or impose requirements on remote sellers that the State does not impose on nonremote sellers with respect to the collection of sales and use taxes under this Act\n\nQuestion: How frequently can a State require a remote seller to file sales and use tax returns?",
+    "output": "A State may not require a remote seller to file sales and use tax returns any more frequently than returns are required for nonremote sellers."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: in carrying out its duties under this Act.&lt;greek-th&gt; x (d) Administrative Support Services.--Upon the request of the Commission, the Administrator of General Services shall provide to the Commission, on a reimbursable basis, the administrative support services necessary for the Commission to carry out its duties under this Act.&lt;greek-th&gt; x SEC\n\nQuestion: What type of services will the Administrator of General Services provide to the Commission on a reimbursable basis?",
+    "output": "The Administrator of General Services shall provide the administrative support services necessary for the Commission to carry out its duties under this Act."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . If a committee fails to report the joint resolution within that period, the committee shall be discharged from further consideration of the joint resolution and the joint resolution shall be referred to the appropriate calendar\n\nQuestion: What happens to the committee if it fails to report the joint resolution within the specified period?",
+    "output": "The committee shall be discharged from further consideration of the joint resolution."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: lateral sclerosis (referred to in this section as `ALS'), shall-- ``(A) develop a system to collect data on ALS, including information with respect to the incidence and prevalence of the disease in the United States; and ``(B) establish a national registry for the collection and storage of such data to include a population-based registry of cases of ALS in the United States\n\nQuestion: What is the purpose of developing a system to collect data on ALS, as stated in the document?",
+    "output": "The purpose is to collect information with respect to the incidence and prevalence of the disease in the United States."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . 77f(b)(2)) is amended by adding at the end the following new sentence: ``Notwithstanding any other provision of this title, no applicant, or group of affiliated applicants that do not include any investment company registered under the Investment Company Act of 1940, filing a registration statement subject to a fee shall be required in any fiscal year with respect to all registration statements\n\nQuestion: What type of applicants are exempt from a registration statement requirement?",
+    "output": "Applicants that do not include any investment company registered under the Investment Company Act of 1940."
+  },
+  {
+    "instruction": "You are a legal expert. Answer the following question based ONLY on the provided legal document context. Be precise and faithful to the source.",
+    "input": "Context: . ``(ii) The Secretary shall develop standards that ensure that submissions to the Secretary pursuant to this section are adequately reviewed to determine whether such submissions include the information required under paragraph (D)(i)\n\nQuestion: What is the purpose of the standards developed by the Secretary according to the document excerpt?",
+    "output": "The purpose of the standards is to ensure that submissions to the Secretary are adequately reviewed to determine whether they include the required information."
+  }
+]
