@@ -1,4 +1,4 @@
-# 🏛️ LexAI — Intelligent Legal Research Assistant
+# 🏛️ LexAI - Intelligent Legal Research Assistant
 ### RAG System with LLM Fine-tuning & MLOps Pipeline
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
@@ -10,9 +10,9 @@
 
 ## 📌 Project Overview
 
-Legal research is time-consuming and complex. **LexAI** is an AI-powered assistant that answers legal questions instantly from a corpus of 500+ legal documents — with source citations, hybrid search, and a fine-tuned LLM.
+Legal research is time-consuming and complex. **LexAI** is an AI-powered assistant that answers legal questions instantly from a corpus of 500+ legal documents, with source citations, hybrid search, and a fine-tuned LLM.
 
-> **Dataset:** 500+ legal documents — 23,562 indexed chunks  
+> **Dataset:** 500+ legal documents, 23,562 indexed chunks  
 > **Domain:** Legal NLP / Retrieval-Augmented Generation  
 > **Model:** Mistral-7B fine-tuned with QLoRA  
 
@@ -33,17 +33,17 @@ Legal research is time-consuming and complex. **LexAI** is an AI-powered assista
 
 ### ✅ Hybrid Search (FAISS + BM25 + RRF)
 Combined dense vector search (FAISS) with sparse keyword 
-search (BM25) using Reciprocal Rank Fusion — gets the 
+search (BM25) using Reciprocal Rank Fusion - gets the 
 best of both worlds.
 
 ### ✅ Cross-Encoder Reranking
 Top 10 candidates reranked with 
 `cross-encoder/ms-marco-MiniLM-L-6-v2` before 
-passing to LLM — improves answer quality significantly.
+passing to LLM - improves answer quality significantly.
 
 ### ✅ QLoRA Fine-tuning
 Fine-tuned Mistral-7B on 200 legal QA pairs using 
-4-bit quantization — pushed faithfulness from 
+4-bit quantization - pushed faithfulness from 
 0.575 → 0.840 with minimal compute.
 
 ### ✅ Relevance Gating
@@ -58,7 +58,7 @@ Context Precision, Context Recall, and Answer Relevancy.
 ---
 
 ## 🔍 RAG Pipeline
-'''
+```
 Legal Documents (500+)
 ↓
 Text Chunking (256 chars, overlap 25)
@@ -74,12 +74,12 @@ Cross-Encoder Reranking
 Relevance Check
 ↓
 Mistral-7B (fine-tuned) → Answer + Sources
-'''
+```
 ---
 
 ## 📁 Project Structure
 
-'''
+```
 Legal-RAG-System/
 ├── src/
 │   └── serving/
@@ -104,7 +104,7 @@ Legal-RAG-System/
 │   └── ci_cd.yml               # GitHub Actions
 ├── .gitignore
 └── README.md
-'''
+```
 ---
 
 ## ⚙️ How to Run
@@ -154,10 +154,10 @@ open frontend/index.html
 
 ## 🔜 Future Work
 
-- [ ] **Fitness domain adaptation** — swap legal docs for fitness content
-- [ ] **Subscription system** — Stripe integration
-- [ ] **Cloud deployment** — Render + Netlify full deployment
-- [ ] **Multi-language support** — Arabic + French legal documents
+- [ ] **Fitness domain adaptation** - swap legal docs for fitness content
+- [ ] **Subscription system** - Stripe integration
+- [ ] **Cloud deployment** - Render + Netlify full deployment
+- [ ] **Multi-language support** - Arabic + French legal documents
 
 ---
 
