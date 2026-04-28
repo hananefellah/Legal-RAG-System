@@ -58,7 +58,7 @@ Context Precision, Context Recall, and Answer Relevancy.
 ---
 
 ## 🔍 RAG Pipeline
-
+'''
 Legal Documents (500+)
 ↓
 Text Chunking (256 chars, overlap 25)
@@ -74,11 +74,12 @@ Cross-Encoder Reranking
 Relevance Check
 ↓
 Mistral-7B (fine-tuned) → Answer + Sources
-
+'''
 ---
 
 ## 📁 Project Structure
 
+'''
 Legal-RAG-System/
 ├── src/
 │   └── serving/
@@ -103,7 +104,7 @@ Legal-RAG-System/
 │   └── ci_cd.yml               # GitHub Actions
 ├── .gitignore
 └── README.md
-
+'''
 ---
 
 ## ⚙️ How to Run
